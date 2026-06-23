@@ -1,1 +1,1 @@
-# Training_project
+# GitHub Analytics Framework and run mvn test
